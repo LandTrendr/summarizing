@@ -1,0 +1,7 @@
+tyler project
+masterMask: /vol/v1/proj/HJA/inputs/WNF_Land_Des_IDs.bsq
+mapsTxt: /vol/v1/proj/summarize/scripts/params/tyler_maps.txt
+stats: num_pix_equal, num_pix_equal
+options: 1,2
+nodata: 0
+outputPath: /vol/v1/proj/HJA/outputs/wnf_landes_uids.csv
